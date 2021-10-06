@@ -1,4 +1,4 @@
-//Doubly Circular Linked List	
+//Doubly Circular Linked List in C
 
 #include<stdio.h>
 #include<stdlib.h>
