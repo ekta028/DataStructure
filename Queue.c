@@ -1,4 +1,4 @@
-//Queue Implementation
+//Queue Implementation in C
 
 
 #include<stdio.h>
