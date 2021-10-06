@@ -1,4 +1,4 @@
-//Stack Implementation
+//Stack Implementation in C
 
 
 #include<stdio.h>
